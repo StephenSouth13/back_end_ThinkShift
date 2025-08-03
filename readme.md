@@ -4,6 +4,10 @@
 <img width="3816" height="1901" alt="image" src="https://github.com/user-attachments/assets/c3ec665e-d46c-4327-9bc2-c572970d9f27" />
 
 ---
+cd data_analyst_api
+python api.py
+python chart.py
+
 #Development Environment Setup
 ##Prerequisites
 - GoLang 1.20 or later
